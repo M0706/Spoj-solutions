@@ -5,7 +5,6 @@
 #include<string.h>
  
 // referenced Dynamic programming : https://www.geeksforgeeks.org/box-stacking-problem-dp-22/
-//cited from https://github.com/anh1l1ator/Spoj/blob/master/Desktop/Codes/BUD13TLF%20-%20Boxes
  
  
 #define N 300031
